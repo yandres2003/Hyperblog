@@ -43,3 +43,12 @@ body
 {
     padding: 1em;
 }
+
+#footer
+{
+    background: #777;
+    color: white;
+    text-align: center;
+    font-style: italic;
+    padding: .5em;
+}
